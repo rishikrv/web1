@@ -1,0 +1,213 @@
+#outer
+{
+height:1000px;
+width:800px;
+\\ border:1px solid white;
+margin:0px auto;
+}
+body
+{
+background-color:green;	
+	
+}
+#menu
+{
+	height:47px;
+	width:797px;
+	border:1px solid white;
+	background-color:white;
+	border-radius:20px 20px 0px 0px;
+	
+}
+#slider
+{
+	height:249px;
+	width:798px;
+	border:1px solid white;
+	margin-top:10px;
+	background-image:url("soff.jpg");
+	
+}
+#main
+{
+	height:1000px;
+	width:800px;
+	\\border:1px solid white;
+	margin-top:10px;
+	border-radius:0px 0px 20px 20px;
+}
+#col1
+{
+	height:998px;
+	width:547px;
+	border:1px solid white;
+	border-radius:0px 0px 0px 20px;
+	float:left;
+}
+#col2
+{
+	height:998px;
+	width:249px;
+	border:1px solid white;
+	border-radius:0px 0px 20px 0px;
+	float:right;
+	background-color:lightgray;
+	
+}
+#first
+{
+	height:448px;
+	width:547px;
+	border:1px solid white;
+	background-color:white;
+
+}
+#sec
+{
+	height:448px;
+	width:547px;
+	border:1px solid black;
+	border-bottom:0px;
+	border-left:0px;
+	border-right:0px;
+	background-color:white;
+}
+#third
+{
+	height:98px;
+	width:547px;
+	border:1px solid black;
+	border-bottom:0px;
+	border-left:0px;
+	border-right:0px;
+	border-radius:0px 0px 0px 20px;
+	background-color:white;
+	
+}
+#menu ul
+{
+list-style-type:none;
+}
+#menu ul li
+{
+color:black;
+display:inline;
+padding:10px; 
+
+}
+#menu ul li a
+{
+color:black;
+text-decoration:none; 
+}
+#m1
+{
+	
+    height:47px;
+	width:547px;
+	\\ border:1px solid black;
+	background-color:white;
+	border-radius:20px 0px 0px 0px;	
+	float:left;
+	
+}
+#m2
+{
+	height:47px;
+	width:245px;
+	\\ border:1px solid black;
+	background-color:white;
+	border-radius:0px 20px 0px 0px;
+    float:right;	
+	
+}
+h1
+{
+	margin-left:15px;
+	margin-top:40px;
+	font-size:20px;
+	
+}
+h2
+{
+	margin-left:20px;
+	margin-top:0px;
+	font-size:15px;
+	
+}
+#image
+{
+	height:170px;
+	width:475px;
+	margin:30px;
+    background-image: url("dis.jpg");
+	border:2px solid red;
+	
+	
+}
+p
+{
+	margin-left:30px;
+	font-size:17px;
+	text-align:justify;
+	margin-right:30px;
+	
+}
+b
+{
+	margin-left:30px;
+	
+}
+#third p
+{
+	margin-left:420px;
+	
+}
+#col2 h1
+{
+	text-align:center;
+	font-size:25px;
+}
+h4
+{
+	margin-left:30px;
+}
+#footer
+{
+	height:300px;
+	width:800px;
+	border-radius:20px 20px 20px 20px;
+	background-color:white;
+	margin-top:10px;
+	
+}
+#f1
+{
+  height:298px;
+  width:266px;
+ 
+  float:left;
+	
+}
+#f2
+{
+  height:298px;
+  width:266px;
+  
+  float:left;
+	
+}
+#f3
+{
+  height:298px;
+  width:262px;
+  
+  float:right;
+	
+}
+img
+{
+	margin-left:30px;
+	margin-top:20px;
+	
+}
